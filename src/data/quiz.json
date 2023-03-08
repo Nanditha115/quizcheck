@@ -1,0 +1,125 @@
+{
+    "data": [
+      {
+        "id":"1",
+        "question": "What is the capital of Croatia ?",
+        "choices": ["Split", "Osijek", "Zagreb", "Rijeka"],
+        "answer": "Zagreb"
+      },
+      {
+        "id":"2",
+        "question": "What is the capital of Slovenia ?",
+        "choices": ["Celje", "Ljubljana", "Maribor", "Koper"],
+        "answer": "Ljubljana"
+      },
+      {
+        "id":"3",
+        "question": "What is the capital of Austria ?",
+        "choices": ["Graz", "Salzburg", "Innsbruck", "Vienna"],
+        "answer": "Vienna"
+      },
+      {
+        "id":"4",
+        "question": "What is the capital of Serbia ?",
+        "choices": ["Belgrade", "Novi Sad", "Niš", "Subotica"],
+        "answer": "Belgrade"
+      },
+      {
+        "id":"5",
+        "question": "What is the capital of Bosnia and Herzegovina ?",
+        "choices": ["Mostar", "Sarajevo", "Banja Luka", "Tuzla"],
+        "answer": "Sarajevo"
+      },
+      {
+        "id":"6",
+        "question": "What is the capital of Hungary ?",
+        "choices": ["Zalaegerszeg", "Eger", "Szeged", "Budapest"],
+        "answer": "Budapest"
+      },
+      {
+        "id":"7",
+        "question": "What is the capital of Slovakia ?",
+        "choices": ["Košice", "Nitra", "Bratislava", "Poprad"],
+        "answer": "Bratislava"
+      },
+      {
+        "id":"8",
+        "question": "What is the capital of Romania ?",
+        "choices": ["Bucharest", "Craiova", "Constanta", "Braila"],
+        "answer": "Bucharest"
+      },
+      {
+        "id":"9",
+        "question": "What is the capital of Germany ?",
+        "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
+        "answer": "Berlin"
+      },
+      {
+        "id":"10",
+        "question": "What is the capital of India ?",
+        "choices": ["Chennai", "New Delhi", "Hyderabad", "Banglore"],
+        "answer": "New Delhi"
+      },
+      {
+        "id":"11",
+        "question": "What is the capital of Belgium ?",
+        "choices": ["Berlin", "Srajevo", "Sofia", "Brussels"],
+        "answer": "Brussels"
+      },
+      {
+        "id":"12",
+        "question": "What is the capital of Namibia ?",
+        "choices": ["Windhoek", "Tripoli", "Gitega", "Dodoma"],
+        "answer": "Windhoek"
+      },
+      {
+        "id":"13",
+        "question": "What is the capital of Armenia ?",
+        "choices": ["Abu Dhabi", "Ankara", "Port-au-Prince", "Yerevan"],
+        "answer": "Yerevan"
+      },
+      {
+        "id":"14",
+        "question": "What is the capital of UK ?",
+        "choices": ["New York", "London", "Port-au-Prince", "Sofia"],
+        "answer": "London"
+      },
+      {
+        "id":"15",
+        "question": "What is the capital of France ?",
+        "choices": ["Paris", "London", "Greece", "Bissau"],
+        "answer": "Paris"
+      },
+      {
+        "id":"16",
+        "question": "What is the capital of Russia ?",
+        "choices": ["Lisbon", "Oslo", "Moscow", "Abuja"],
+        "answer": "Moscow"
+      },
+      {
+        "id":"17",
+        "question": "What is the capital of Peru ?",
+        "choices": ["Belfast", "Castries", "Apia", "Lima"],
+        "answer": "Lima"
+      },
+      {
+        "id":"18",
+        "question": "What is the capital of UAE ?",
+        "choices": ["Abu Dhabi", "Kyiv", "Ankara", "Tunis"],
+        "answer": "Abu Dhabi"
+      },
+      {
+        "id":"19",
+        "question": "What is the capital of South Korea ?",
+        "choices": ["Pyongyang", "Seoul", "Asuncion", "Skopje"],
+        "answer": "Seoul"
+      },
+      {
+        "id":"20",
+        "question": "What is the capital of Denmark ?",
+        "choices": ["Havana", "Moroni", "Yaounde", "Copenhagen"],
+        "answer": "Copenhagen"
+      }
+      
+    ]
+  }
